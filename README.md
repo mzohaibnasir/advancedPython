@@ -43,6 +43,6 @@ While Python doesn't have true function overloading, you can use default argumen
 
 ###################################################################################
 
-# The @property
+# `@property`
 
 is a built-in decorator for the property() function in Python. It is used to give "special" functionality to certain methods to make them act as getters, setters, or deleters when we define properties in a class.
